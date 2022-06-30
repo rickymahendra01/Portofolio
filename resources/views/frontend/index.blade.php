@@ -73,7 +73,7 @@
 					<div class="col-lg-7">
 						<div class="banner_content">
 							<h3 class="text-uppercase">Hell0</h3>
-							<h1 class="text-uppercase">I am rahi satner</h1>
+							<h1 class="text-uppercase">Saya Ricky Mahendra</h1>
 							<h5 class="text-uppercase">senior wordpress developer</h5>
 							<div class="d-flex align-items-center">
 								<a class="primary_btn" href="#"><span>Hire Me</span></a>
